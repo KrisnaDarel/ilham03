@@ -50,7 +50,7 @@
                             <div class="h5 mb-0 font-weight-bold text-gray-800">{{ $widget['trx'] }}</div>
                         </div>
                         <div class="col-auto">
-                            <i class="fas fa-dollar-sign fa-2x text-gray-300"></i>
+                            <i class="fas fa-calculator fa-2x text-gray-300"></i>
                         </div>
                     </div>
                 </div>
@@ -97,12 +97,12 @@
     </div>
     <div class="row">
         <div class="col-md-3 col-12">
-            <a href="{{ url('/home/generate-data') }}" class="btn btn-primary mb-2" style="background-color: #24256d; color: white;">Cetak Data</a>
+            <a href="{{ url('/home/generate-data') }}" class="btn btn-primary mb-2" style="background-color: #424242; color: white;">Cetak Data</a>
         </div>
         <div class="col-12">
             <table class="table table-bordered table-stripped">
                 <thead>
-                    <tr style="background-color: #24256d; color: white;">
+                    <tr style="background-color: #424242; color: white;">
                         <th>No</th>
                         <th>Kode Invoice</th>
                         <th>Pelanggan</th>

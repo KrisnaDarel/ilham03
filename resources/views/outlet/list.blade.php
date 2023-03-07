@@ -6,7 +6,7 @@
 
 <!-- Main Content goes here -->
 
-<a href="{{ route('outlet.create') }}" class="btn btn-primary mb-3" style="background-color: #000000; color: white;">Tambah Outlet</a>
+<a href="{{ route('outlet.create') }}" class="btn btn-primary mb-3" style="background-color: #424242; color: white;">Tambah Outlet</a>
 
 @if (session('message'))
 <div class="alert alert-success">
@@ -16,7 +16,7 @@
 
 <table class="table table-bordered table-stripped">
     <thead>
-        <tr style="background-color: #000000; color: white;">
+        <tr style="background-color: #424242; color: white;">
             <th>No</th>
             <th>Nama</th>
             <th>Alamat</th>
@@ -33,11 +33,11 @@
             <td>{{  $out->no_telp  }}</td>
             <td>
                 <div class="d-flex">
-                    <a href="{{ route('outlet.edit', $out->id) }}" class="btn mr-2 rounded-circle py-2" style="background-color: rgb(173, 173, 173);"><i class="fas fa-fw fa-pen text-white"></i></a>
+                    <a href="{{ route('outlet.edit', $out->id) }}" class="btn mr-2 rounded-circle py-2" style="background-color: rgb(17, 0, 255);"><i class="fas fa-fw fa-pen text-white"></i></a>
                     <form action="{{ route('outlet.destroy', $out->id) }}" method="post">
                         @csrf
                         @method('delete')
-                        <button type="submit" class="btn rounded-circle py-2" style="background-color: rgb(148, 148, 148);"
+                        <button type="submit" class="btn rounded-circle py-2" style="background-color: rgb(255, 0, 0);"
                             onclick="return confirm('Are you sure to delete this?')"><i class="fas fa-fw fa-trash text-white"></button>
                     </form>
                 </div>

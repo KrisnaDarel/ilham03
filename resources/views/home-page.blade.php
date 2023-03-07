@@ -392,7 +392,7 @@
                             <div class="bg-light text-center mb-2 pt-4">
                                 <div class="d-inline-flex flex-column align-items-center justify-content-center bg-secondary rounded-circle shadow mt-2 mb-4"
                                     style="width: 200px; height: 200px; border: 15px solid #ffffff;">
-                                    <h3 class="text-white">Basic</h3>
+                                    <h3 class="text-white">Regular</h3>
                                     <h1 class="display-4 text-white mb-0">
                                         <small class="align-top"
                                             style="font-size: 22px; line-height: 45px;"></small>10<small
@@ -404,7 +404,7 @@
                                     <p>Min Berat 5Kg</p>
                                     <p>Layanan 2 hari Selesai</p>
                                     <p>Cuci basah</p>
-                                    <p>Biaya Antar Jemput 10k</p>
+                                    <p>Biaya Ongkir 15k</p>
                                 </div>
                                 <a href="" class="btn btn-secondary py-2 px-4">Order Now</a>
                             </div>
@@ -425,7 +425,7 @@
                                     <p>Min Berat 5Kg</p>
                                     <p>Layanan 1 hari Selesai</p>
                                     <p>Cuci Kering - Lipat</p>
-                                    <p>Free Antar Jemput</p>
+                                    <p>Free Ongkir</p>
                                 </div>
                                 <a href="" class="btn btn-primary py-2 px-4">Order Now</a>
                             </div>

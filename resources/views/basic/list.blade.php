@@ -6,7 +6,7 @@
 
 <!-- Main Content goes here -->
 
-<a href="{{ route('basic.create') }}" class="btn btn-primary mb-3" style="background-color: #000000; color: white;">New User</a>
+<a href="{{ route('basic.create') }}" class="btn btn-primary mb-3" style="background-color: #424242; color: white;">New User</a>
 
 @if (session('message'))
 <div class="alert alert-success">
@@ -16,7 +16,7 @@
 
 <table class="table table-bordered table-stripped">
     <thead>
-        <tr style="background-color: #000000; color: white;">
+        <tr style="background-color: #424242; color: white;">
             <th>No</th>
             <th>Full Name</th>
             <th>Email</th>
@@ -38,7 +38,7 @@
             <td>
                 <div class="d-flex">
                     <a href="{{ route('basic.edit', $user->id) }}" class="btn mr-2 rounded-circle py-2" 
-                        style="background-color: #ff9900;"><i class="fas fa-fw fa-pen text-white"></i></a>
+                        style="background-color: #0026ff;"><i class="fas fa-fw fa-pen text-white"></i></a>
                     <form action="{{ route('basic.destroy', $user->id) }}" method="post">
                         @csrf
                         @method('delete')

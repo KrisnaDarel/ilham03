@@ -16,9 +16,9 @@ class DatabaseSeeder extends Seeder
     public function run()
     {
         Outlet::create([
-            'nama' => 'Laundry super',
-            'alamat' => 'jl paris',
-            'no_telp' => '09238493239',
+            'nama' => 'HamsSkie Laundry',
+            'alamat' => 'Jl Raden Wijaya no 18B, Gedangan, Sidoarjo, Jawa Timur',
+            'no_telp' => '081233075477',
         ]);
 
         // User::create([
@@ -37,7 +37,7 @@ class DatabaseSeeder extends Seeder
             'role' => 'admin',
             'id_outlet' => '1',
             'email_verified_at' => now(),
-            'password' => Hash::make('hams123'), // password
+            'password' => Hash::make('hamskie'), // password
         ]);
     }
 }

@@ -5,8 +5,8 @@
     <!-- Required meta tags -->
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
-    <meta name="description" content="Laravel SB Admin 2">
-    <meta name="author" content="Alejandro RH">
+    <meta name="description" content="Tugas UKK">
+    <meta name="author" content="Achmad Ilham Mubarok Al Ghifari">
 
     <!-- CSRF Token -->
     <meta name="csrf-token" content="{{ csrf_token() }}">
@@ -41,7 +41,7 @@
             <!-- Sidebar - Brand -->
             <a class="sidebar-brand d-flex align-items-center justify-content-center" href="{{ route('home') }}">
                 <div class="sidebar-brand-icon rotate-n-15">
-                    <i class="fas fa-desktop"></i>
+                    <i class="fas fa-fw fa-user"></i>
                 </div>
                 <div class="sidebar-brand-text mx-3">Hello😎, {{ Auth::user()->role }}</div>
             </a>
@@ -76,7 +76,7 @@
             <li class="nav-item {{ Nav::isRoute('basic.index') }}">
                 <a class="nav-link" href="{{ route('basic.index') }}">
                     <i class="fas fa-fw fa-users"></i>
-                    <span>{{ __('Pengguna') }}</span>
+                    <span>{{ __('Users') }}</span>
                 </a>
             </li>
 
@@ -87,13 +87,6 @@
                 </a>
             </li>
 
-            <li class="nav-item {{ Nav::isRoute('paket.index') }}">
-                <a class="nav-link" href="{{ route('paket.index') }}">
-                    <i class="fas fa-fw fa-cubes"></i>
-                    <span>{{ __('Paket') }}</span>
-                </a>
-            </li>
-
             <li class="nav-item {{ Nav::isRoute('outlet.index') }}">
                 <a class="nav-link" href="{{ route('outlet.index') }}">
                     <i class="fas fa-fw fa-home"></i>
@@ -101,9 +94,17 @@
                 </a>
             </li>
 
+            <li class="nav-item {{ Nav::isRoute('paket.index') }}">
+                <a class="nav-link" href="{{ route('paket.index') }}">
+                    <i class="fas fa-fw fa-cubes"></i>
+                    <span>{{ __('Paket') }}</span>
+                </a>
+            </li>
+
+
             <li class="nav-item {{ Nav::isRoute('transaksi.index') }}">
                 <a class="nav-link" href="{{ route('transaksi.index') }}">
-                    <i class="fas fa-fw fa-dollar-sign"></i>
+                    <i class="fas fa-fw fa-calculator"></i>
                     <span>{{ __('Transaksi') }}</span>
                 </a>
             </li>
@@ -119,7 +120,7 @@
             </li>
             <li class="nav-item {{ Nav::isRoute('transaksi.index') }}">
                 <a class="nav-link" href="{{ route('transaksi.index') }}">
-                    <i class="fas fa-fw fa-dollar-sign"></i>
+                    <i class="fas fa-fw fa-calculator"></i>
                     <span>{{ __('Transaksi') }}</span>
                 </a>
             </li>

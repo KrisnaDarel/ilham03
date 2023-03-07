@@ -98,8 +98,8 @@
                     <img class="w-100" src="img/carousel-1.jpg" alt="Image">
                     <div class="carousel-caption d-flex flex-column align-items-center justify-content-center">
                         <div class="p-3" style="max-width: 900px;">
-                            <h4 class="text-white text-uppercase mb-md-3">Laundry & Dry Cleaning</h4>
-                            <h1 class="display-3 text-white mb-md-4">Best For Laundry Services</h1>
+                            <h4 class="text-white text mb-md-3">HamsSkie Laundry😎</h4>
+                            <h1 class="display-3 text-uppercase text-white mb-md-4">Laundry & Dry Cleaning</h1>
                         </div>
                     </div>
                 </div>
@@ -107,8 +107,8 @@
                     <img class="w-100" src="img/carousel-2.jpg" alt="Image">
                     <div class="carousel-caption d-flex flex-column align-items-center justify-content-center">
                         <div class="p-3" style="max-width: 900px;">
-                            <h4 class="text-white text-uppercase mb-md-3">Laundry & Dry Cleaning</h4>
-                            <h1 class="display-3 text-white mb-md-4">Highly Professional Staff</h1>
+                            <h4 class="text-white text mb-md-3">HamsSkie Laundry😎</h4>
+                            <h1 class="display-3 text-uppercase text-white mb-md-4">Highly Professional Staff</h1>
                         </div>
                     </div>
                 </div>
@@ -373,7 +373,7 @@
                                     style="width: 150px; height: 150px; border-width: 15px !important;">
                                     <h2 class="display-2 text-secondary m-0">4</h2>
                                 </div>
-                                <h3 class="font-weight-bold m-0 mt-2">Pengiriman Gratis</h3>
+                                <h3 class="font-weight-bold m-0 mt-2">Ongkir Ditanggung Customer</h3>
                             </div>
                         </div>
                     </div>
@@ -406,7 +406,7 @@
                                     <p>Cuci basah</p>
                                     <p>Biaya Ongkir 15k</p>
                                 </div>
-                                <a href="" class="btn btn-secondary py-2 px-4">Order Now</a>
+                                <a href="/login" class="btn btn-secondary py-2 px-4">Order Now</a>
                             </div>
                         </div>
                         <div class="col-lg-4 mb-4">
@@ -427,7 +427,7 @@
                                     <p>Cuci Kering - Lipat</p>
                                     <p>Free Ongkir</p>
                                 </div>
-                                <a href="" class="btn btn-primary py-2 px-4">Order Now</a>
+                                <a href="/login" class="btn btn-primary py-2 px-4">Order Now</a>
                             </div>
                         </div>
                         <div class="col-lg-4 mb-4">
@@ -448,7 +448,7 @@
                                     <p>Cuci Kering - Lipat - Setrika</p>
                                     <p>Free Antar Jemput</p>
                                 </div>
-                                <a href="" class="btn btn-secondary py-2 px-4">Order Now</a>
+                                <a href="/login" class="btn btn-secondary py-2 px-4">Order Now</a>
                             </div>
                         </div>
                     </div>
@@ -638,10 +638,10 @@
             </div>
             <div class="container-fluid bg-dark text-white py-4 px-sm-3 px-md-5">
                 <p class="m-0 text-center text-white">
-                    &copy; <a class="text-white font-weight-medium" href="#">Your Site Name</a>. All Rights Reserved.
+                    &copy; <a class="text-white font-weight-medium" href="#">Achmad Ilham M.a</a>. Copyright 2023.
 
                     <!--/*** This template is free as long as you keep the footer author’s credit link/attribution link/backlink. If you'd like to use the template without the footer author’s credit link/attribution link/backlink, you can purchase the Credit Removal License from "https://htmlcodex.com/credit-removal". Thank you for your support. ***/-->
-                    Designed by <a class="text-white font-weight-medium" href="https://htmlcodex.com">HTML Codex</a>
+                    Designed by <a class="text-white font-weight-medium" href="https://instagram.com/hamsskie.pengen.mpl?igshid=YmMyMTA2M2Y=">HamsSkie The Progamer</a>
                 </p>
             </div>
             <!-- Footer End -->

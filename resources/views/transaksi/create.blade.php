@@ -76,7 +76,7 @@
                     </div>
 
             </div>
-            <div class="col-md-4 col-12 float-right">
+            <div class="col-md-2 col-12 float-right">
                 <button type="submit" class="btn btn-primary btn-block">Tambah</button>
             </div>
 

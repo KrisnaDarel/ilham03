@@ -2,7 +2,7 @@
 
 @section('main-content')
     <!-- Page Heading -->
-    <h1 class="h3 mb-4 text-gray-800">{{ __('About Profile') }}</h1>
+    <h1 class="h3 mb-4 text-gray-800">{{ __('Tentang Programmer') }}</h1>
 
     <div class="row justify-content-center">
 
@@ -41,8 +41,8 @@
                     <div class="row">
                         <div class="col-lg-12">
                             <h5 class="font-weight-bold">HamsSkie Laundry</h5>
-                            <p>Progam</p>
-                            <p>Recommend to install this preset on a project that you are starting from scratch, otherwise your project's design might break.</p>
+                            <p>Progammer Pemula😎</p>
+                            <p>Direkomendasikan untuk menginstal prasetel ini pada proyek yang Anda mulai dari awal, jika tidak, desain proyek Anda mungkin rusak.</p>
                             <a href="https://github.com/JuaAha" target="_blank" class="btn btn-github">
                                 <i class="fab fa-github fa-fw"></i> Go to repository
                             </a>
@@ -53,8 +53,9 @@
 
                     <div class="row">
                         <div class="col-lg-12">
-                            <h5 class="font-weight-bold">Credits</h5>
-                            <p>Novice programmer from Antartika 1 Sidoarjo Vocational High School</p>
+                            <h5 class="font-weight-bold">Kredit</h5>
+                            <p>Programmer pemula dari SMK Antartika 1 Sidoarjo</p>
+                            <p>Beberapa Framework yang dapat membantu anda</p>
                             <ul>
                                 <li><a href="https://laravel.com" target="_blank">Laravel</a> - Open source framework.</li>
                                 <li><a href="https://github.com/DevMarketer/LaravelEasyNav" target="_blank">LaravelEasyNav</a> - Making managing navigation in Laravel easy.</li>

@@ -43,7 +43,7 @@
                 <div class="sidebar-brand-icon rotate-n-15">
                     <i class="fas fa-fw fa-user"></i>
                 </div>
-                <div class="sidebar-brand-text mx-3">Hello😎, {{ Auth::user()->role }}</div>
+                <div class="sidebar-brand-text mx-3">Halo,{{ Auth::user()->role }}</div>
             </a>
 
             <!-- Divider -->
@@ -76,14 +76,14 @@
             <li class="nav-item {{ Nav::isRoute('basic.index') }}">
                 <a class="nav-link" href="{{ route('basic.index') }}">
                     <i class="fas fa-fw fa-users"></i>
-                    <span>{{ __('Users') }}</span>
+                    <span>{{ __('Pengguna') }}</span>
                 </a>
             </li>
 
             <li class="nav-item {{ Nav::isRoute('member.index') }}">
                 <a class="nav-link" href="{{ route('member.index') }}">
                     <i class="fas fa-fw fa-user-circle"></i>
-                    <span>{{ __('Membership') }}</span>
+                    <span>{{ __('Member') }}</span>
                 </a>
             </li>
 
@@ -145,15 +145,15 @@
 
 
 
-            {{-- <!-- Nav Item - About -->
-        <li class="nav-item {{ Nav::isRoute('about') }}">
+            <!-- Nav Item - About -->
+        {{-- <li class="nav-item {{ Nav::isRoute('about') }}">
             <a class="nav-link" href="{{ route('about') }}">
                 <i class="fas fa-fw fa-hands-helping"></i>
                 <span>{{ __('About') }}</span>
             </a>
-            </li>
+            </li> --}}
 
-            <!-- Nav Item -->
+            {{-- <!-- Nav Item -->
             <li class="nav-item {{ Nav::isRoute('blank') }}">
                 <a class="nav-link" href="{{ route('blank') }}">
                     <i class="fas fa-fw fa-book"></i>
@@ -236,14 +236,14 @@
                                     <i class="fas fa-user fa-sm fa-fw mr-2 text-gray-400"></i>
                                     {{ __('Profile') }}
                                 </a>
-                                {{-- <a class="dropdown-item" href="javascript:void(0)">
+                                {{-- {{-- <a class="dropdown-item" href="javascript:void(0)">
                                     <i class="fas fa-cogs fa-sm fa-fw mr-2 text-gray-400"></i>
                                     {{ __('Settings') }}
-                                </a>
-                                <a class="dropdown-item" href="javascript:void(0)">
-                                    <i class="fas fa-list fa-sm fa-fw mr-2 text-gray-400"></i>
-                                    {{ __('Activity Log') }}
                                 </a> --}}
+                                <a class="dropdown-item" href="/about">
+                                    <i class="fas fa-fw fa-hands-helping mr-2 text-gray-400"></i>
+                                    {{ __('Tentang Programmer') }}
+                                </a>
                                 <div class="dropdown-divider"></div>
                                 <a class="dropdown-item" href="#" data-toggle="modal" data-target="#logoutModal">
                                     <i class="fas fa-sign-out-alt fa-sm fa-fw mr-2 text-gray-400"></i>

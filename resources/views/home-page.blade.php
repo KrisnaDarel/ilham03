@@ -75,10 +75,10 @@
                 </button>
                 <div class="collapse navbar-collapse justify-content-between px-3" id="navbarCollapse">
                     <div class="navbar-nav ml-auto py-0">
-                        <a href="" class="nav-item nav-link active">Home</a>
-                        <a href="#about" class="nav-item nav-link">About</a>
-                        <a href="#service" class="nav-item nav-link">Services</a>
-                        <a href="#pricing" class="nav-item nav-link">Pricing</a>
+                        <a href="#home" class="nav-item nav-link active">Home</a>
+                        <a href="#about" class="nav-item nav-link">Data Pesanan</a>
+                        <a href="#service" class="nav-item nav-link">Layanan</a>
+                        <a href="#pricing" class="nav-item nav-link">Harga Paket</a>
                         {{-- <a href="#blog" class="nav-item nav-link">Blog</a> --}}
 
                         <a href="#contact" class="nav-item nav-link">Contact</a>

@@ -43,7 +43,7 @@
                     <option value="kiloan">Kiloan</option>
                     <option value="selimut">Selimut</option>
                     <option value="bed cover">Bed Cover</option>
-                    <option value="kaos">Kaos</option>
+                    <option value="kaos">Pakaian</option>
                     <option value="lain">Lain</option>
 
                     <select>

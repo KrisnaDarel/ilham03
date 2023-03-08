@@ -98,7 +98,7 @@
                     <img class="w-100" src="img/carousel-1.jpg" alt="Image">
                     <div class="carousel-caption d-flex flex-column align-items-center justify-content-center">
                         <div class="p-3" style="max-width: 900px;">
-                            <h4 class="text-white text mb-md-3">HamsSkie Laundry😎</h4>
+                            <h4 class="text-white text mb-md-3">HamsSkie Laundry</h4>
                             <h1 class="display-3 text-uppercase text-white mb-md-4">Laundry & Dry Cleaning</h1>
                         </div>
                     </div>
@@ -107,7 +107,7 @@
                     <img class="w-100" src="img/carousel-2.jpg" alt="Image">
                     <div class="carousel-caption d-flex flex-column align-items-center justify-content-center">
                         <div class="p-3" style="max-width: 900px;">
-                            <h4 class="text-white text mb-md-3">HamsSkie Laundry😎</h4>
+                            <h4 class="text-white text mb-md-3">HamsSkie Laundry</h4>
                             <h1 class="display-3 text-uppercase text-white mb-md-4">Highly Professional Staff</h1>
                         </div>
                     </div>
@@ -137,7 +137,7 @@
                     <div class="d-inline-flex">
                         <i class="fa fa-2x fa-map-marker-alt text-white m-0 mr-3"></i>
                         <div class="d-flex flex-column">
-                            <h5 class="text-white font-weight-medium">Lokasi gweh</h5>
+                            <h5 class="text-white font-weight-medium">Lokasi</h5>
                             <p class="m-0 text-white">Jl Raden Wijaya no28B, Gedangan, Sidoarjo, Jawa Timur</p>
                         </div>
                     </div>
@@ -147,7 +147,7 @@
                     <div class="d-inline-flex text-left">
                         <i class="fa fa-2x fa-envelope text-white m-0 mr-3"></i>
                         <div class="d-flex flex-column">
-                            <h5 class="text-white font-weight-medium">Email gwehhh</h5>
+                            <h5 class="text-white font-weight-medium">Email</h5>
                             <p class="m-0 text-white">achilhamm.a@gmail.com</p>
                         </div>
                     </div>
@@ -157,7 +157,7 @@
                     <div class="d-inline-flex text-left">
                         <i class="fa fa-2x fa-phone-alt text-white m-0 mr-3"></i>
                         <div class="d-flex flex-column">
-                            <h5 class="text-white font-weight-medium">Panggil saya cuyy</h5>
+                            <h5 class="text-white font-weight-medium">Panggil saya</h5>
                             <p class="m-0 text-white">+62 812-3307-5477</p>
                         </div>
                     </div>

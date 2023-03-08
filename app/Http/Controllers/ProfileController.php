@@ -6,6 +6,7 @@ use App\User;
 use Illuminate\Http\Request;
 use Illuminate\Support\Facades\Auth;
 use Illuminate\Support\Facades\Hash;
+use Illuminate\Support\Facades\Storage;
 
 class ProfileController extends Controller
 {
@@ -21,6 +22,7 @@ class ProfileController extends Controller
 
     public function update(Request $request)
     {
+
         $request->validate([
             'name' => 'required|string|max:255',
             'last_name' => 'nullable|string|max:255',

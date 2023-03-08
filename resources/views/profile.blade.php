@@ -3,6 +3,9 @@
 @section('main-content')
     <!-- Page Heading -->
     <h1 class="h3 mb-4 text-gray-800">{{ __('Profile') }}</h1>
+    <div class="section-header-breadcrumb">
+        <div class="breadcrumb-item active"><a href="/about">About</a></div>
+      </div>
 
     @if ($errors->any())
         <div class="alert alert-danger border-left-danger" role="alert">

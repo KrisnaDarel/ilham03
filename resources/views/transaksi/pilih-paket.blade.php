@@ -71,7 +71,7 @@
                             <div class="col-md-4 col-12">
                                 <div class="form-group">
                                     <label for="diskon">Diskon</label>
-                                    <input type="text" style=" border-bottom: 2px solid black;"
+                                    <input type="number" style=" border-bottom: 2px solid black;"
                                         class="form-control @error('diskon') is-invalid @enderror" name="diskon"
                                         id="diskon" placeholder="Diskon" autocomplete="off"
                                         value="{{ old('diskon') }}">

@@ -26,7 +26,7 @@
 
                     <div class="row">
                         <div class="col-md-4 mb-1 text-left">
-                            <a href="https://instagram.com/hams.dry?igshid=YmMyMTA2M2Y=" target="_blank" class="btn btn-facebook btn-circle btn-lg"><i class="fab fa-instagram"></i></a>
+                            <a href="https://instagram.com/hamsskie.pengen.mpl?igshid=YmMyMTA2M2Y=" target="_blank" class="btn btn-facebook btn-circle btn-lg"><i class="fab fa-instagram"></i></a>
                         </div>
                         <div class="col-md-8 mb-1 text-right">
                             <a href="https://github.com/JuaAcha" target="_blank" class="btn btn-github btn-circle btn-lg"><i class="fab fa-github fa-fw"></i></a>

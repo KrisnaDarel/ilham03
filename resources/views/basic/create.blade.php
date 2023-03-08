@@ -34,6 +34,7 @@
                 <select class="form-select form-control @error('role') is-invalid @enderror" name="role" id="role"
                     placeholder="Roles" autocomplete="off" value="{{ old('role') }}">
                     <option selected name="role">pilih role</option>
+                    <option value="admin">Admin</option>
                     <option value="owner">Owner</option>
                     <option value="kasir">Kasir</option>
 

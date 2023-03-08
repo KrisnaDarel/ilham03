@@ -49,7 +49,7 @@
                         <a class="text-white px-3" href="">
                             <i class="fab fa-linkedin-in"></i>
                         </a> --}}
-                        <a class="text-white px-3" href="https://instagram.com/hamsskie.pengen.mpl?igshid=YmMyMTA2M2Y=">
+                        <a class="text-white px-3" href="https://instagram.com/hams.dry?igshid=YmMyMTA2M2Y==">
                             <i class="fab fa-instagram"></i>
                         </a>
                         {{-- <a class="text-white pl-3" href="">
@@ -614,7 +614,7 @@
                             <a class="btn btn-outline-light rounded-circle text-center mr-2 px-0"
                                 style="width: 38px; height: 38px;" href="#"><i class="fab fa-linkedin-in"></i></a> --}}
                             <a class="btn btn-outline-light rounded-circle text-center mr-2 px-0"
-                                style="width: 38px; height: 38px;" href="https://instagram.com/hamsskie.pengen.mpl?igshid=YmMyMTA2M2Y="><i class="fab fa-instagram"></i></a>
+                                style="width: 38px; height: 38px;" href="https://instagram.com/hams.dry?igshid=YmMyMTA2M2Y="><i class="fab fa-instagram"></i></a>
                         </div>
                     </div>
                     <div class="col-lg-4 col-md-6 mb-5">
@@ -641,7 +641,7 @@
                     &copy; <a class="text-white font-weight-medium" href="#">Achmad Ilham M.a</a>. Copyright 2023.
 
                     <!--/*** This template is free as long as you keep the footer author’s credit link/attribution link/backlink. If you'd like to use the template without the footer author’s credit link/attribution link/backlink, you can purchase the Credit Removal License from "https://htmlcodex.com/credit-removal". Thank you for your support. ***/-->
-                    Designed by <a class="text-white font-weight-medium" href="https://instagram.com/hamsskie.pengen.mpl?igshid=YmMyMTA2M2Y=">HamsSkie The Progamer</a>
+                    Designed by <a class="text-white font-weight-medium" href="https://instagram.com/hams.dry?igshid=YmMyMTA2M2Y=">HamsSkie The Progamer</a>
                 </p>
             </div>
             <!-- Footer End -->

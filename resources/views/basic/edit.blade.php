@@ -47,10 +47,12 @@
                     @elseif($user->role=='admin')
                     <option name="role">pilih role</option>
                     <option selected value="owner">Owner</option>
+                    <option value="admin">Admin</option>
                     <option value="owner">Owner</option>
                     <option value="kasir">Kasir</option>
                     @else
                     <option selected name="role">pilih role</option>
+                    <option value="admin">Admin</option>
                     <option value="owner">Owner</option>
                     <option value="kasir">Kasir</option>
                     @endif
